@@ -31,14 +31,23 @@ A common occurence during table top games, like DND, that rely heavily on die ro
   
 ### Technologies
 -Javascript
+
 -Angular
+
 -NodeJS and MongoDB (for user profiles & login authentication)
+
 -local storage (for storing die data)
+
 -FormsModule
+
 -Ng2Charts (for data visualization)
+
 ### What I'll Have to Learn
 -NodeJs and MongoDB
+
 -Ng2Charts
+
 -FormsMOdule
+
 ### Project Tracker
 https://trello.com/b/Q2nI1IxN/dnd-dice-tracker
