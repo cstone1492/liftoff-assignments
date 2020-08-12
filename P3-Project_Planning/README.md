@@ -18,7 +18,7 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 -https://github.com/cstone1492/liftoff-assignments/blob/master/P3-Project_Planning/add-die-set.jpg
 
--https://github.com/cstone1492/liftoff-assignments/blob/master/P3-Project_Planning/die generator.jpg
+-https://github.com/cstone1492/liftoff-assignments/blob/master/P3-Project_Planning/die-generator.jpg
 
 -https://github.com/cstone1492/liftoff-assignments/blob/master/P3-Project_Planning/see-data.jpg
 
